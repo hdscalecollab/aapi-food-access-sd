@@ -4,7 +4,7 @@
 This repository hosts code snippets of analysis and data for the AAPI food access project in San Diego.
 
 - Paper reference:
-    - Xie, R., Cao, Y., Yang, J-A., Tribby, C. P., Voong, C., and Jankowska, M. M. (In Press). Measuring Access to Culturally Appropriate Food and Associations with Diabetes among Asian Americans and Native Hawaiians or Pacific Islanders. *Public Health Nutrition.* https://doi.org/10.1017/S1368980025101444
+    - Xie, R., Cao, Y., Yang, J.-A., Tribby, C. P., Voong, C., & Jankowska, M. M. (2025). Measuring access to culturally appropriate food and associations with diabetes among Asian Americans and Native Hawaiians or Pacific Islanders. *Public Health Nutrition, 28*(1), e197. https://doi.org/10.1017/S1368980025101444. 
 
 - For questions, please contact Rujia Xie (rujiaxie5@gmail.com)
 
